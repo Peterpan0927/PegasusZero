@@ -8,3 +8,7 @@ chmod u+x ./exploit.sh
              -64(can be used to exploit  on Serria)
              -clean(clean the binary file)
 ```
+
+# demonstration
+![pwn-32](http://omunhj2f1.bkt.clouddn.com/pwn.png)
+![pwn-64](http://omunhj2f1.bkt.clouddn.com/pwn-64.png)
