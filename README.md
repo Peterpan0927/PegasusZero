@@ -10,5 +10,4 @@ chmod u+x ./exploit.sh
 ```
 
 # demonstration
-![pwn-32](http://omunhj2f1.bkt.clouddn.com/pwn.png)
-![pwn-64](http://omunhj2f1.bkt.clouddn.com/pwn-64.png)
+[on Twitter](https://twitter.com/HackersClothing/status/1022862634608222208)
